@@ -1,8 +1,9 @@
 ---
 layout: default
-title: procedure 3
+title: Setup github
 nav_order: 14
 ---
 
-# procedure 3 goes here
+# Setup github
 {: no-toc}
+
