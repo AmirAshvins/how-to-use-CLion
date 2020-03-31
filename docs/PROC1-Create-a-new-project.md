@@ -7,7 +7,7 @@ nav_order: 12
 {: no-toc}
 
 ✓ RECOMMENDATION LABEL
-{: .label .label-green }
+{: .label .label-blue }
 
 WARNING LABEL ⚠
 {: .label .label-yellow }
@@ -18,6 +18,7 @@ WARNING LABEL ⚠
 
 
 1. text
+
 ![image-name](url?raw=true "alt text here") 
 
 1. text
