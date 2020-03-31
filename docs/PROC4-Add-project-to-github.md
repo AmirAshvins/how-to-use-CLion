@@ -16,7 +16,7 @@ nav_order: 15
     </li>
      <li> 
     <p>text</p>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.ca%2FMagnet-America-Smiley-Face-Circle%2Fdp%2FB005MZZ9Z4&psig=AOvVaw2IFgGthfHaiQyHnB4b9Hj3&ust=1585704778119000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICd9uPIw-gCFQAAAAAdAAAAABAD" title="title" alt=""> 
+    <img src="http://2.bp.blogspot.com/_Mh1tYFoEZ_c/TUWmFjhptbI/AAAAAAAAB3g/ckBEvJMp_AY/s1600/happy-face_happyface_smiley_2400x2400.jpg" title="title" alt=""></img> 
     </li>
     <li> 
     <p>text</p>
