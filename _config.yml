@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: How To Use Figma
-description: Jekyll themes for instructions on how to create a basic figma prototype with collaborators.
-baseurl: "/how-to-use-Figma" # the subpath of your site, e.g. /blog
+title: How To Use CLion
+description: Jekyll themes for instructions on how to work with CLion IDE.
+baseurl: "/how-to-use-CLion" # the subpath of your site, e.g. /blog
 url: "https://amirAshvins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
