@@ -7,7 +7,7 @@ nav_order: 16
 # Change the color scheme
 {: no-toc}
 
-✓ RECOMMENDATION LABEL
+★ RECOMMENDATION LABEL
 {: .label .label-blue }
 
 ⚠ WARNING LABEL 

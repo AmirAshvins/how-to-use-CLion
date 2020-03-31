@@ -8,7 +8,7 @@ nav_order: 14
 
 {: no-toc}
 
-✓ RECOMMENDATION LABEL
+★ RECOMMENDATION LABEL
 {: .label .label-blue }
 
 ⚠ WARNING LABEL 
