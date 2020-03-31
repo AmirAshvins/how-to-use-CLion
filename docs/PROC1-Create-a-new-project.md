@@ -6,32 +6,22 @@ nav_order: 12
 # Create a new project
 {: no-toc}
 
+✓ RECOMMENDATION LABEL
+{: .label .label-blue }
+
+⚠ WARNING LABEL 
+{: .label .label-yellow }
+
 intro text
 
-1. fisrt do this and then do that
-![image-name](http://2.bp.blogspot.com/_Mh1tYFoEZ_c/TUWmFjhptbI/AAAAAAAAB3g/ckBEvJMp_AY/s1600/happy-face_happyface_smiley_2400x2400.jpg?raw=true "alt text here") 
+1. text
 2. text
-![image-name](url?raw=true "alt text here") 
+![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image1.png?raw=true "alt text here") 
 3. Text
-
-![image-name](url?raw=true "alt text here")
-
+![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image2.png?raw=true "alt text here")
 4. text
-![image-name](url?raw=true "alt text here") 
-
+![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image3.png?raw=true "alt text here") 
 5. text
-![image-name](url?raw=true "alt text here") 
-
+![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image4.png?raw=true "alt text here") 
 6. Text
 
-![image-name](url?raw=true "alt text here")
-
-7. text
-
-![image-name](url?raw=true "alt text here") 
-8. text
-
-![image-name](url?raw=true "alt text here") 
-9. Text
-
-![image-name](url?raw=true "alt text here")

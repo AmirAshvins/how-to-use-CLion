@@ -7,58 +7,29 @@ nav_order: 14
 # Setup github
 
 {: no-toc}
+
 ✓ RECOMMENDATION LABEL
 {: .label .label-blue }
 
-WARNING LABEL ⚠
+⚠ WARNING LABEL 
 {: .label .label-yellow }
 
 
-<p>text<p>
-
-<ol> 
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-     <li> 
-    <p>text</p>
-    <img src="http://2.bp.blogspot.com/_Mh1tYFoEZ_c/TUWmFjhptbI/AAAAAAAAB3g/ckBEvJMp_AY/s1600/happy-face_happyface_smiley_2400x2400.jpg" title="title" alt=""/>
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-    <li> 
-    <p>text</p>
-    <img src="url" title="title" alt=""> 
-    </li>
-</ol>
+1. ftext
+![image-name](url?raw=true "alt text here") 
+2. text
+![image-name](url?raw=true "alt text here") 
+3. Text
+![image-name](url?raw=true "alt text here")
+4. text
+![image-name](url?raw=true "alt text here") 
+5. text
+![image-name](url?raw=true "alt text here") 
+6. Text
+![image-name](url?raw=true "alt text here")
+7. text
+![image-name](url?raw=true "alt text here") 
+8. text
+![image-name](url?raw=true "alt text here") 
+9. Text
+![image-name](url?raw=true "alt text here")

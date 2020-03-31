@@ -10,7 +10,7 @@ nav_order: 16
 ✓ RECOMMENDATION LABEL
 {: .label .label-blue }
 
-WARNING LABEL ⚠
+⚠ WARNING LABEL 
 {: .label .label-yellow }
 
 
