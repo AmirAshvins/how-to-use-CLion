@@ -6,25 +6,25 @@ nav_order: 12
 # Create a new project
 {: no-toc}
 
-intro text
+<p>text<p>
 
 <div class="code-example" markdown="1">
-1. text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here") 
-1. text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here") 
-1. Text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here")
-1. text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here") 
-1. text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here") 
-1. Text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here")
-1. text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here") 
-1. text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here") 
-1. Text
+1. <p>text<p>
 ![image-name](url?raw=true "alt text here")
 </div>
