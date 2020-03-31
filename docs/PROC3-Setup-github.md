@@ -9,9 +9,11 @@ nav_order: 14
 
 <p>text<p>
 
-<div class="code-example" markdown="1">
-1. <p>text<p>
-![image-name](url?raw=true "alt text here") 
+1. text
+
+![image-name](url?raw=true "alt text here")
+1. text 
+
 1. <p>text<p>
 ![image-name](url?raw=true "alt text here") 
 1. <p>text<p>
@@ -28,4 +30,3 @@ nav_order: 14
 ![image-name](url?raw=true "alt text here") 
 1. <p>text<p>
 ![image-name](url?raw=true "alt text here")
-</div>

@@ -17,14 +17,10 @@ WARNING LABEL ⚠
 
 
 
-1. <div class="code-example" markdown="1">
-    <p>text<p>
+1. text
+![image-name](url?raw=true "alt text here") 
 
-    ![image-name](url?raw=true "alt text here") 
-
-    </div>
-    
-1. <p>text<p>
+1. text
 
 ![image-name](url?raw=true "alt text here") 
 
