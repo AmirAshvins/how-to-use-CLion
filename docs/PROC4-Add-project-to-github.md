@@ -8,9 +8,9 @@ nav_order: 15
 {: no-toc}
 
 1. fisrt do this and then do that
-![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image1.png?raw=true =500 "alt text here" ) 
+![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image1.png?raw=true =100 "alt text here" ) 
 2. text
-![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image2.png?raw=true width=500 "alt text here" ) 
+![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image2.png?raw=true width=300 "alt text here" ) 
 3. Text
 ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image3.png?raw=true width=500)
 4. text
