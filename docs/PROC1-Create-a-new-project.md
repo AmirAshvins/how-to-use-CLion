@@ -6,17 +6,22 @@ nav_order: 12
 # Create a new project
 {: no-toc}
 
-GREEN LABEL 
+✓ RECOMMENDATION LABEL
 {: .label .label-green }
 
-WARNING LABEL ⚠
+⚠ WARNING LABEL 
 {: .label .label-yellow }
 
 
 <p>text<p>
 
 <div class="code-example" markdown="1">
+
 1. <p>text<p>
+
+one paragraph
+
+two paragraph
 
 ![image-name](url?raw=true "alt text here") 
 
@@ -51,4 +56,5 @@ WARNING LABEL ⚠
 1. <p>text<p>
 
 ![image-name](url?raw=true "alt text here")
+
 </div>
