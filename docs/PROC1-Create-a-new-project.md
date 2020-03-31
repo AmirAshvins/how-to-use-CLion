@@ -13,8 +13,27 @@ nav_order: 12
 {: .label .label-yellow }
 
 
+intro text
 
+<ol>
+    <li>
+        
+        text
+        in html
 
+        ![image-name](url?raw=true "alt text here")
+
+    </li>
+
+    <li>
+        
+        in html text
+
+        ![image-name](url?raw=true "alt text here")
+
+    </li>
+
+</ol>
 
 1. text
 
