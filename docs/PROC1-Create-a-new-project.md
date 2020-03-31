@@ -7,17 +7,16 @@ nav_order: 12
 {: no-toc}
 
 ✓ RECOMMENDATION LABEL
-{: .label .label-green }
+{: .label .label-blue }
 
 ⚠ WARNING LABEL 
 {: .label .label-yellow }
 
 
-<p>text<p>
 
-<div class="code-example" markdown="1">
 
-1. <p>text<p>
+
+1. text
 
 one paragraph
 
@@ -25,36 +24,35 @@ two paragraph
 
 ![image-name](url?raw=true "alt text here") 
 
-1. <p>text<p>
+2. text
 
 ![image-name](url?raw=true "alt text here") 
 
-1. <p>text<p>
+3. text
 
 ![image-name](url?raw=true "alt text here")
 
-1. <p>text<p>
+4. text
 
 ![image-name](url?raw=true "alt text here") 
 
-1. <p>text<p>
+5. text
 
 ![image-name](url?raw=true "alt text here") 
 
-1. <p>text<p>
+6. text
 
 ![image-name](url?raw=true "alt text here")
 
-1. <p>text<p>
+7. text
 
 ![image-name](url?raw=true "alt text here") 
 
-1. <p>text<p>
+8. text
 
 ![image-name](url?raw=true "alt text here") 
 
-1. <p>text<p>
+9. text
 
 ![image-name](url?raw=true "alt text here")
 
-</div>
