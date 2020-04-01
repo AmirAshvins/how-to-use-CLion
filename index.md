@@ -56,15 +56,15 @@ We will use the following industry standard mouse-related terms:
 
 This guide uses recommendation and warning messages to convey additional information about each step.
 
-1. ★ Recommendation
+1.  ★ Recommendation
    {: .label .label-blue }
-   Recommendations provide more information about the best way to proceed with a particular step. They are always proceeded with a blue star symbol and the bolded text “Recommendation:”.
+   Recommendations provide more information about the best way to proceed with a particular step. They are always encased in a blue box and preceded by a star.
   
-1. \* Note
+1.  \* Note
    {: .label .label-green }
-   Notes provide
+   Notes provide extra information about the step. They are always encased in a green box and preceded by an asterisk.
   
-1. ⚠ Caution
+1.  ⚠ Caution
    {: .label .label-yellow }
-   Cautions provide more information about potential risks that exist in each step. They are always proceeded with an exclamation mark enclosed in a yellow circle and the bolded text “Caution:”.
+   Cautions provide more information about potential risks that exist in each step. They are always encased in a yellow box and preceded by an exclamation mark enclosed in a circle.
   
