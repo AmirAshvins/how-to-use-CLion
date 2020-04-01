@@ -5,30 +5,43 @@ nav_order: 4
 ---
 
 # Setup GitHub account
-{: no-toc}
 
 In this procedure, we will link your github account to your CLion application. After completion, CLion will be prepared to connect any project to Github.
 
 It is necessary to have your GitHub account set up so you can share your projects into the cloud or pull from the cloud to your local machine.
 
 1. Open CLion application.
-2. In the bottom left corner of the starting window, click **Configure**.
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image1.png?raw=true "alt text here")
+    You should now be in the [starting window].
+
+2. Click **Configure**.
+
+    ![starting-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image1.png?raw=true "Starting window")
+
 3. Click **Preferences** from the appeared menu.
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image2.png?raw=true "alt text here")
-4. In the search bar, type GitHub and Click on **GitHub** in the right pane under **Version Control**.
+    ![starting-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image2.png?raw=true "Starting window - Emphasis on proferences")
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image3.png?raw=true "alt text here")  
-5. In the middle of the right pane, click **Add account**.
+    You should now be in the [preferences window].
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image4.png?raw=true "alt text here") 
-6. In the **login Window**, Enter your GitHub username and password in the appropriate boxes and click **LogIn**.
+4. Search "GitHub", then click on **GitHub**.
+
+    ![preferences-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image3.png?raw=true "Preferences window")
+
+5. Click **Add account**.
+
+    ![version-control-preferences](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image4.png?raw=true "Version control preferences")
+
+    A login dialog should now appear.
+
+6. Enter your GitHub username and password and click **LogIn**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image5.png?raw=true "alt text here")
-7. You should be able to see your GitHub account in the right pane. Click **OK**.
+
+    ✓ You should be able to see your GitHub account.
+    {: .label .label-green-000}
   
     ★ In order to set your newly added git account to default, click the **tickmark** in the middle of the right pane.
     {: .label .label-blue }
+
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image6.png?raw=true "alt text here")

@@ -11,7 +11,7 @@ In this procedure, we will create a new C project on CLion. After completion, yo
 
 1. Open CLion.
 
-   You should now be in the [starting window]
+   You should now be in the [starting window].
 
 2. Click **New Project**.
 
@@ -29,6 +29,7 @@ In this procedure, we will create a new C project on CLion. After completion, yo
     {: .label .label-yellow }
 
     Choose the desired **language standard** click **create**.
+
     ![project-path-selection-screen](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image4.png?raw=true "Project path selection screen - Emphasis on language standard")
 
 Congratulations, you have successfully created a new C project on your CLion application.
