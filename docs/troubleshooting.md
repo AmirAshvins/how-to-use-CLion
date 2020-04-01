@@ -4,10 +4,10 @@ title: Troubleshooting
 nav_order: 8
 ---
 
-# troubleshooting goes here
+# Troubleshooting 
 {: no-toc}
 
-Use this section to solve any issues.
+This section relates common issues with their probable causes and solutions.
 
 | Issue                                                    	| Possible reason                                                    	| Solution                                                                                                                                                                                                                                                                               	|
 |----------------------------------------------------------	|--------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|

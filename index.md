@@ -54,18 +54,13 @@ We will use the following industry standard mouse-related terms:
 
 This guide uses recommendation and warning messages to convey additional information about each step.
 
-  1.★ Recommendation 
-  {: .label .label-blue }
-  Recommendations provide more information about the best way to proceed with a particular step. They are always proceeded with a blue star symbol and the bolded text “Recommendation:”.
-  2. Caution: Cautions provide more information about potential risks that exist in each step. They are always proceeded with an exclamation mark enclosed in a yellow circle and the bolded text “Caution:”.
-
-
+1.★ Recommendation
+    {: .label .label-blue } Recommendations provide more information about the best way to proceed with a particular step. They are always proceeded with a blue star symbol and the bolded text “Recommendation:”.
   
-★ Recommendation 
-{: .label .label-blue }
-
-⚠ Caution 
-{: .label .label-yellow }
-
+1. &ast; Note
+    {: .label .label-green }
   
-
+1. Caution
+    {: .label .label-yellow } Cautions provide more information about potential risks that exist in each step. They are always proceeded with an exclamation mark enclosed in a yellow circle and the bolded text “Caution:”.
+  
+ 

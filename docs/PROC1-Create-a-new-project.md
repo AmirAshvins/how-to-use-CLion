@@ -28,4 +28,3 @@ In this procedure, we will create a new C executable project on CLion.
 6. Congradulations, you have successfully created a new C executbale project on your CLion application.
 
 Check for success: you should be able to find the newly created project on the right pane of the starting window whenever you open CLion.
-
