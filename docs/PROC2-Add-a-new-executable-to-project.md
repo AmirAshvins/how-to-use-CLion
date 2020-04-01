@@ -38,7 +38,7 @@ before proceeding with this procedure, make sure you do have an existing project
 
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image3.png?raw=true "alt text here")
   
-6.from the **Type** drop down menu, choose the type of the file and click **Ok**.
+6. from the **Type** drop down menu, choose the type of the file and click **Ok**.
 
   \* Note: In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for c++ source files) 
   {: .label .label-green}
@@ -55,8 +55,8 @@ before proceeding with this procedure, make sure you do have an existing project
   
 9. Inside the parenthesis, you need to add the two appropriate statements with a space inbetween them.
 
-  ★ Recommendation: (1) The first statement that goes in the paranthesis is the name of the new file that will be used by the C compiler. It is best to simply use the name of the source file.
-  {: .label .label-blue}
+  ★ Recommendation:
+  {: .label .label-blue} The first statement that goes in the paranthesis is the name of the new file that will be used by the C compiler. It is best to simply use the name of the source file.
   
   ★ Recommendation: (2) The second statemtn that goes in the paranthesis is the relative path of the source file that is created. if the file is created in the root level of the project (as demonstrated in the previous steps) simply use the file's name.
   {: .label .label-blue}
