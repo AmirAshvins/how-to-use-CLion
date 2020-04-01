@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glossary
-nav_order: 18
+nav_order: 7
 ---
 
 # glossary goes here

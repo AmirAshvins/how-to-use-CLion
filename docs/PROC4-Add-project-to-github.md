@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Add project to github
-nav_order: 15
+nav_order: 5
 ---
 
 # Add project to github

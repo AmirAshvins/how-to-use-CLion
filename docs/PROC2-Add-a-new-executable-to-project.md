@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Add a new executable to project
-nav_order: 13
+nav_order: 3
 ---
 
 # Add a new executable to project
