@@ -26,7 +26,7 @@ This document intended for novice programmers who have never previously used CLi
 
 This user documentation is written for CLion 2019.3.2 for macOS Catalina 10.15.3 operating system. If you are using older versions of CLion, we recommend updating your application before using this guide. As this is intended for macOS, there may be discrepancies with the Windows version of the app.  
 
-## Prerequisits:
+## Prerequisites:
 
 The following requisites are needed in order to use these instructions:
   * MacOS operating system
