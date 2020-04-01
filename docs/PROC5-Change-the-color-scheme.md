@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Change the color scheme
-nav_order: 16
+nav_order: 6
 ---
 
 # Change the color scheme

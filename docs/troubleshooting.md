@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Troubleshooting
-nav_order: 17
+nav_order: 8
 ---
 
 # troubleshooting goes here
