@@ -5,7 +5,6 @@ nav_order: 6
 ---
 
 # Change the color scheme
-{: no-toc}
 
 ★ RECOMMENDATION LABEL
 {: .label .label-blue }

@@ -14,13 +14,14 @@ The purpose of this document is to show users how to properly use CLion. CLion i
 
 This document intended for novice programmers who have never previously used CLion. The user should be able to write a basic C program.
 
-## Procedures Described
- MAKE TOC HERE
-  1. create a new project on CLion
-  2. add new executable files to their projects
-  3. connect their GitHub account to CLion
-  4. share their projects to online GitHub repositories
-  5. customize IDE’s code color scheme
+## Procedures inlcuded
+
+This document describes how to
+  *. create a new project on CLion,
+  *. add new executable files to their projects,
+  *. connect CLion to GitHub,
+  *. share projects on GitHub,
+  *. customize CLion's color scheme.
   
 ## Software Versions
 
@@ -36,20 +37,11 @@ The following requisites are needed in order to use these instructions:
 * GitHub account
 * basic programming skills
 
-## Mouse Conventions
-
-We will use the following industry standard mouse-related terms:
-
-* Click: press the left mouse button and release it immediately
-* Right Click: press the right mouse button and release it immediately
-* Select: Click on the following.
-* Hover: place your mouse on the designated area (text or link)
-
 ## Typographical Conventions
 
 | Convention and Explanation                                                                              | Examples                                             |
 |---------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| Interactive elements: Interactive elements such as buttons are bolded.                                  | Click the Open button, Double click on the File menu |
+| Interactive elements: Interactive elements such as **buttons** are bolded.                                  | Click the **Open** button, Double click the **File** menu |
 | Dialog windows: Dialog windows are enclosed in a set of square brackets and end with the “window” word. | [Mac Open Dialog Window]                             |
 
 ## Notes and Warning Messages

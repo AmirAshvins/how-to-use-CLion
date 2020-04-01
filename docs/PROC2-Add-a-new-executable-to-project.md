@@ -5,7 +5,6 @@ nav_order: 3
 ---
 
 # Add a new executable to project
-{: no-toc}
 
 In this procedure we will create a new executable file in your project. After completion, the new executable file should be able to be run by CLion.
 
