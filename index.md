@@ -49,7 +49,6 @@ We will use the following industry standard mouse-related terms:
 |---------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | Interactive elements: Interactive elements such as buttons are bolded.                                  | Click the Open button, Double click on the File menu |
 | Dialog windows: Dialog windows are enclosed in a set of square brackets and end with the “window” word. | [Mac Open Dialog Window]                             |
-|                                                                                                         |                                                      ||
 
 ## Notes and Warning Messages:
 
