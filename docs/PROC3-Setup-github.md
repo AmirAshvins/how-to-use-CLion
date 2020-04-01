@@ -15,7 +15,6 @@ nav_order: 4
 
 
 1. ftext
-![image-name](url?raw=true "alt text here") 
 2. text
 ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image1.png?raw=true "alt text here") 
 3. Text
