@@ -16,6 +16,7 @@ In this procedure, we will customuize the color scheme of the code in CLion. pro
 
 ## Instructions:
 
+1. Open CLion application.
 1. fisrt do this and then do that
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img1.png?raw=true "alt text here")
