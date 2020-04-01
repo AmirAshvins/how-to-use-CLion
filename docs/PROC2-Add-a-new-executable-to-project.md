@@ -46,14 +46,10 @@ Before starting with this procedure, you must have an existing project. If you d
 
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image6.png?raw=true "alt text")
 
-9. Inside the parenthesis, you need to add the two appropriate statements with a space inbetween them.
-
-  ★ Recommendation:
-  {: .label .label-blue}
-  The first statement that goes in the paranthesis is the name of the new file that will be used by the C compiler. It is best to simply use the name of the source file.
-  ★ Recommendation:
-  {: .label .label-blue}
-  The second statemtn that goes in the paranthesis is the relative path of the source file that is created. if the file is created in the root level of the project (as demonstrated in the previous steps) simply use the file's name.
+9. Inside the parenthesis, you need to add
+    1. the name of your app followed by a space,
+    2. the relative path to your executable file from the "CMakeList.txt".
+  
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image7.png?raw=true "alt text here")
 10. To save the changes we have made, click **Reload changes**, located on the top right corner of the right pane.
 
