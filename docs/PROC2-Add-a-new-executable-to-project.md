@@ -22,15 +22,15 @@ before proceeding with this procedure, make sure you do have an existing project
 
 
 1. Open CLion application.
-2. In the left pane in the starting window, open your projcet by clicking on it.
+2. In the left pane in the starting window, open your project by clicking on it.
 
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image0.png?raw=true "alt text here") 
   
-3. In the right pane of the newly opened window, right click on the project’s name.
+3. In the right pane of the project's window, right-click on the project's directory.
 
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image1.png?raw=true "alt text here") 
   
-4. Hover over **New** (1) and click **C/C++ Source File** (2).
+4. In contextual menu, hover over **New > C/C++ Source File**.
 
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image2.png?raw=true "alt text here")
   
@@ -40,7 +40,7 @@ before proceeding with this procedure, make sure you do have an existing project
   
 6.from the **Type** drop down menu, choose the type of the file and click **Ok**.
 
-  ! Note: In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for c++ source files) 
+  \* Note: In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for c++ source files) 
   {: .label .label-green}
   
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "alt text here") 
