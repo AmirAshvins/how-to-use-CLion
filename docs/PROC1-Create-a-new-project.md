@@ -33,7 +33,7 @@ In this procedure, we will create a new C project on CLion. After completion, yo
 
 Congratulations, you have successfully created a new C project on your CLion application.
 
-    ✓ Next to the main directory in the project pane it should state the path to your project.
-    {: .label .label-purple}
+✓ Next to the main directory in the project pane it should state the path to your project.
+{: .label .label-purple}
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image100.png?raw=true "alt text here")
+![project-path](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image100.png?raw=true "Project path")
