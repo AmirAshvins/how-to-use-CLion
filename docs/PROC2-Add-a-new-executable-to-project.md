@@ -14,12 +14,6 @@ In this procedure we will create a new executbale file in your project so that t
 
 before proceeding with this procedure, make sure you do have an existing project in your CLion. If you do not, please create a new project or check out [create a new project guide](https://amirashvins.github.io/how-to-use-CLion/docs/PROC1-Create-a-new-project/).
 
-★ RECOMMENDATION LABEL
-{: .label .label-blue }
-
-⚠ WARNING LABEL
-{: .label .label-yellow }
-
 1. Open CLion application.
 2. In the left pane in the starting window, open your project by clicking on it.
 
@@ -41,7 +35,7 @@ before proceeding with this procedure, make sure you do have an existing project
 
   \* Note: 
   {: .label .label-green}
-    In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for c++ source files) 
+  In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for c++ source files) 
   
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "alt text here") 
   
@@ -56,12 +50,12 @@ before proceeding with this procedure, make sure you do have an existing project
 9. Inside the parenthesis, you need to add the two appropriate statements with a space inbetween them.
 
   ★ Recommendation:
-  {: .label .label-blue} 
-    The first statement that goes in the paranthesis is the name of the new file that will be used by the C compiler. It is best to simply use the name of the source file.
+  {: .label .label-blue}
+  The first statement that goes in the paranthesis is the name of the new file that will be used by the C compiler. It is best to simply use the name of the source file.
   
   ★ Recommendation:
   {: .label .label-blue}
-    The second statemtn that goes in the paranthesis is the relative path of the source file that is created. if the file is created in the root level of the project (as demonstrated in the previous steps) simply use the file's name.
+  The second statemtn that goes in the paranthesis is the relative path of the source file that is created. if the file is created in the root level of the project (as demonstrated in the previous steps) simply use the file's name.
   
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image7.png?raw=true "alt text here") 
   
