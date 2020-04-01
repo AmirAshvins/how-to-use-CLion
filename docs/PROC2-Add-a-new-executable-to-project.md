@@ -15,47 +15,47 @@ Before starting this procedure, you must have an existing project. If you do not
 1. Open CLion.
 2. Click on your **project** to open it.
 
-   You should be now in the [main window].
+    ![starting-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image0.png?raw=true "Starting window")
 
     You should be now in the [main window].
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image0.png?raw=true "alt text here")
 
 3. Right-click on the project's directory.
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image1.png?raw=true "alt text here")
+  ![right-click-on-project-directory](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image1.png?raw=true "Right click on project directory")
+
 4. Hover across **New > C/C++ Source File**.
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image2.png?raw=true "alt text here")
+    ![right-click-on-project-directory](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image2.png?raw=true "Right click on project directory")
 
 5. Enter the name of your new file in the **Name** box in the [new source file window].
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image3.png?raw=true "alt text here")
+    ![new-source-file-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image3.png?raw=true "New source file window")
 
-6. Choose the desired type of file and click **Ok** from the **Type** drop down menu.
+6. Click the desired type of file from the **Type** drop down menu, then click **Ok**.
 
-    \* In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for C++ source files)
+    \* We will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for C++ source files)
       {: .label .label-green}
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "alt text here")
+    ![new-source-file-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "New source file window")
 
-7. In the project pane in the [main window] double-click **CMakeLists.txt** to open it. 
+7. Double-click **CMakeLists.txt** to open it.
 
+    ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image5.png?raw=true "Main window - Emphasis on project panel")
     The source code should now appear in the code pane of the [main window].
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image5.png?raw=true "alt text here")
 
-8. In the code pane of the [main window], after the last **add_executable()**, type **add_executable()** in a new line.
+8. Type "add_executable()" in a new line.
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image6.png?raw=true "alt text")
+    ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image6.png?raw=true "Main window - Emphasis on code panel")
 
-9. Inside the parenthesis, you need to add:
+9. Inside the parenthesis, add:
 
     1. the name of your app followed by a space,
     2. the relative path to your executable file from the "CMakeList.txt".
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image7.png?raw=true "alt text here")
+    ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image7.png?raw=true "Main window - Emphasis on code panel")
 
-10. To save the changes we have made, click **Reload changes**, located on the top right corner of the right pane.
+10. Click **Reload changes**.
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image8.png?raw=true "alt text here")
+    ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image8.png?raw=true "Main window - Emphasis on code panel")
 
-✓ Check for success: After this stage you should be able to run your newly created file.
-{: .label .label-purple}
+✓ Check for success: After this stage you should be able to find the new executable in the executables list.
+{: .label .label-green-000}

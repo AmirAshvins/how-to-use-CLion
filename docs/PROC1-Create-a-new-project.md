@@ -7,7 +7,7 @@ nav_order: 2
 
 In this procedure, we will create a new C project on CLion. After completion, your project will contain a main file to put your code in, and it will have the compiler for the project set up.
 
-## Instructions:
+## Instructions
 
 1. Open CLion.
 
@@ -19,21 +19,21 @@ In this procedure, we will create a new C project on CLion. After completion, yo
 
 3. Click **C Executable**.
 
-    ![right-click-on-project-directory](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image2.png?raw=true "Right click on project directory")
+    ![project-path-selection-screen-1](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image2.png?raw=true "Project path selection screen - Emphasis on project type")
 
 4. Enter the desired path for the new project ending with its name.
 
-    ![project-path-selection-screen](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image3.png?raw=true "Project path selection screen")
+    ![project-path-selection-screen-2](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image3.png?raw=true "Project path selection screen - Emphasis on project path")
 
 5. ⚠ Only change the language standard from **C99** to a previous version if you specifically want to create a backward compatible application.
     {: .label .label-yellow }
 
     Choose the desired **language standard** click **create**.
-    ![project-path-selection-screen](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image4.png?raw=true "Project path selection screen. Emphasis on language standard")
+    ![project-path-selection-screen](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image4.png?raw=true "Project path selection screen - Emphasis on language standard")
 
 Congratulations, you have successfully created a new C project on your CLion application.
 
 ✓ Next to the main directory in the project pane it should state the path to your project.
-{: .label .label-purple}
+{: .label .label-green-000}
 
 ![project-path](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image100.png?raw=true "Project path")
