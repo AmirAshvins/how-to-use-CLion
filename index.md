@@ -6,91 +6,61 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+# Introduction
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+The purpose of this document is to show users how to properly use CLion. CLion is a cross platform IDE (integrated development environment) produced by JetBrains. CLion specializes in C and C++ programming languages. CLion is one of the more popular IDEs since it features on-the-fly code analysis, refactoring and code generation. One of the most popular features of this application is its integration with GitHub.
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+## Intended users:
 
----
+This document intended for novice programmers who have never previously used CLion. The user should be able to write a basic C program.
 
-## Getting started
+## Procedures Described:
 
-### Dependencies
+  1. create a new project on CLion,
+  2. add new executable files to their projects,
+  3. connect their GitHub account to CLion,
+  4. share their projects to online GitHub repositories,
+  5. customize IDE’s code color scheme.
+  
+## Software Versions:
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+This user documentation is written for CLion 2019.3.2 for macOS Catalina 10.15.3 operating system. If you are using older versions of CLion, we recommend updating your application before using this guide. As this is intended for macOS, there may be discrepancies with the Windows version of the app.  
 
-### Quick start: Use as a GitHub Pages remote theme
+## Prerequisits:
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+The following requisites are needed in order to use these instructions:
+  * MacOS operating system
+  * CLion application
+  * C compiler in your computer/laptop (such as gcc)
+  * GitHub account
+  * basic programming skills
+ 
+## Mouse Conventions:
 
-### Local installation: Use the gem-based theme
+We will use the following industry standard mouse-related terms:
+  * Click: press the left mouse button and release it immediately
+  * Right Click: press the right mouse button and release it immediately
+  * Select: Click on the following.
+  * Hover: place your mouse on the designated area (text or link)
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+## Typographical Conventions:
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+| Convention and Explanation                                                                              | Examples                                             |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Interactive elements: Interactive elements such as buttons are bolded.                                  | Click the Open button, Double click on the File menu |
+| Dialog windows: Dialog windows are enclosed in a set of square brackets and end with the “window” word. | [Mac Open Dialog Window]                             |
+|                                                                                                         |                                                      ||
 
-### Configure Just the Docs
+## Notes and Warning Messages:
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+This guide uses recommendation and warning messages to convey additional information about each step.
 
----
+  1. Recommendation: Recommendations provide more information about the best way to proceed with a particular step. They are always proceeded with a blue star symbol and the bolded text “Recommendation:”.
+  2. Caution: Cautions provide more information about potential risks that exist in each step. They are always proceeded with an exclamation mark enclosed in a yellow circle and the bolded text “Caution:”.
 
-## About the project
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
+  
 
-### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+  
 
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
