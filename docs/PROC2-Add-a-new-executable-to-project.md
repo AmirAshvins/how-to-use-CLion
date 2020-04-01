@@ -33,15 +33,9 @@ Before starting with this procedure, you must have an existing project. If you d
   
 6. Choose the desired type of file and click **Ok** from the **Type** drop down menu.
 
-  \* Note:
+  \* In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for C++ source files)
   {: .label .label-green}
-<<<<<<< HEAD
-    In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for C++ source files)
-=======
-  In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for c++ source files) 
-<<<<<<< HEAD
->>>>>>> 3a4bf3e07975a8e75d387fe197e9f79484f219c2
-  
+
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "alt text here")
   
 7. In the project pane in the [main window] double-click **CMakeLists.txt** to open it. The source code should now appear in the code pane of the [main window].
@@ -50,17 +44,8 @@ Before starting with this procedure, you must have an existing project. If you d
   
 8. In the code pane of the [main window], after the last **add_executable()**, type **add_executable()** in a new line.
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image6.png?raw=true "alt text here")
-  
-=======
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "alt text here") 
-7. In the left pane in the project's window click on **CMakeLists.txt** file to open it.
+  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image6.png?raw=true "alt text")
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image5.png?raw=true "alt text here")
-8. In the right pane of the file, after the last **add_executable()**, type **add_executable()** in a new line.
-
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image6.png?raw=true "alt text here") 
->>>>>>> 2464b89f90eff60e3c37b633ecc913796ed9d71f
 9. Inside the parenthesis, you need to add the two appropriate statements with a space inbetween them.
 
   ★ Recommendation:
@@ -69,7 +54,7 @@ Before starting with this procedure, you must have an existing project. If you d
   ★ Recommendation:
   {: .label .label-blue}
   The second statemtn that goes in the paranthesis is the relative path of the source file that is created. if the file is created in the root level of the project (as demonstrated in the previous steps) simply use the file's name.
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image7.png?raw=true "alt text here") 
+  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image7.png?raw=true "alt text here")
 10. To save the changes we have made, click **Reload changes**, located on the top right corner of the right pane.
 
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image8.png?raw=true "alt text here")
