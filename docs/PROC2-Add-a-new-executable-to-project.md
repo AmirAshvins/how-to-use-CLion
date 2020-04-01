@@ -10,16 +10,15 @@ nav_order: 3
 
 In this procedure we will create a new executbale file in your project so that the file could be ran by its own without the need for a "main.c" file.
 
-## Prerequisites:
+## Prerequisites
 
 before proceeding with this procedure, make sure you do have an existing project in your CLion. If you do not, please create a new project or check out [create a new project guide](https://amirashvins.github.io/how-to-use-CLion/docs/PROC1-Create-a-new-project/).
 
 ★ RECOMMENDATION LABEL
 {: .label .label-blue }
 
-⚠ WARNING LABEL 
+⚠ WARNING LABEL
 {: .label .label-yellow }
-
 
 1. Open CLion application.
 2. In the left pane in the starting window, open your project by clicking on it.
