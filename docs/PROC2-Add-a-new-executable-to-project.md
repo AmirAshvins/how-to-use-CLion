@@ -14,12 +14,11 @@ Before starting this procedure, you must have an existing project. If you do not
 
 1. Open CLion.
 2. Open your project by clicking on it in the projects pane in the [starting window].
-   You should be now in the [main window].
-
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image0.png?raw=true "alt text here")
+    You should be now in the [main window].
+    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image0.png?raw=true "alt text here")
 3. Right-click on the project's directory.
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image1.png?raw=true "alt text here")
+    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image1.png?raw=true "alt text here")
 4. Hover over **New > C/C++ Source File** in contextual menu.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image2.png?raw=true "alt text here")
