@@ -6,7 +6,7 @@ nav_order: 3
 
 # Add a new executable to project
 
-In this procedure we will create a new executable file in your project. After completion, the new executable file should be able to be run by CLion.
+In this procedure we will create a new executable file in your project. To be able to have more than one executable file in a project, it is necessary to complete this procedure. After completion, the new executable file should be able to be run by CLion.
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ Before starting this procedure, you must have an existing project. If you do not
 
     You should be now in the [main window].
 
-3. Right-click on the project's directory.
+3. Right-click the project's directory.
 
     ![right-click-on-project-directory](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image1.png?raw=true "Right click on project directory")
 
@@ -27,7 +27,7 @@ Before starting this procedure, you must have an existing project. If you do not
 
     ![right-click-on-project-directory](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image2.png?raw=true "Right click on project directory")
 
-5. Enter the name of your new file in the **Name** box in the [new source file window].
+5. Enter the name of your new file in the **Name** box.
 
     ![new-source-file-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image3.png?raw=true "New source file window")
 
@@ -46,7 +46,7 @@ Before starting this procedure, you must have an existing project. If you do not
 
     ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image6.png?raw=true "Main window - Emphasis on code panel")
 
-9. Inside the parenthesis, add:
+9. Inside the parenthesis, type:
 
     1. the name of your app followed by a space,
     2. the relative path to your executable file from the "CMakeList.txt".

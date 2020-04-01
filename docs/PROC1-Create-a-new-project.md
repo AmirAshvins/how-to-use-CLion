@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Create a new project
 
-In this procedure, we will create a new C project on CLion. After completion, your project will contain a main file to put your code in, and it will have the compiler for the project set up.
+In this procedure, we will create a new C project on CLion. To be able to use CLion, it is essential to know how to properly set up a new project. After completion, your project will contain a main file to put your code in, and it will have the compiler for the project set up.
 
 ## Instructions
 

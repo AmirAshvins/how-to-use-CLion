@@ -5,9 +5,10 @@ nav_order: 5
 ---
 
 # Share project to github
-{: no-toc}
 
-In this procedure, we will share a project ,in CLion, on GitHub cloud. It is imperative for software developers and programmers to know how to do this since it enables collaborators to import our code into thier machines and to work on it on the project. After this procedure, you have shared your project on github, and you would be able to see it on your github reposetory.
+In this procedure, we will share a project from CLion to GitHub. After completion, the project will be accessible from Github.
+
+It is imperative for software developers and programmers to know how to do this since it enables collaborators to import our code into thier machines and to work on it on the project.
 
 ## Prerequisites
 
