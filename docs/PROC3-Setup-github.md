@@ -12,7 +12,6 @@ nav_order: 4
 # Setup github
 {: no-toc}
 
-{: toc}
 
 
 1. ftext
