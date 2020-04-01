@@ -28,12 +28,12 @@ Before starting this procedure, you must have an existing project. If you do not
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image3.png?raw=true "alt text here")
 6. Choose the desired type of file and click **Ok** from the **Type** drop down menu.
 
-   \* In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for C++ source files)
-  {: .label .label-green}
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "alt text here")
+    \* In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for C++ source files)
+      {: .label .label-green}
+    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "alt text here")
 7. In the project pane in the [main window] double-click **CMakeLists.txt** to open it. The source code should now appear in the code pane of the [main window].
-
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image5.png?raw=true "alt text here")
+    
 8. In the code pane of the [main window], after the last **add_executable()**, type **add_executable()** in a new line.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image6.png?raw=true "alt text")
