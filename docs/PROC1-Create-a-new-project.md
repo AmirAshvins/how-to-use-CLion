@@ -7,6 +7,8 @@ nav_order: 2
 
 In this procedure, we will create a new C project on CLion. After completion, your project will contain a main file to put your code in, and it will have the compiler for the project set up.
 
+## Instructions:
+
 1. Open CLion.
 2. On the right pane in the starting window, beneath CLion’s Logo, click **New Project**.
 
