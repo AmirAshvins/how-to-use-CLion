@@ -8,19 +8,19 @@ permalink: /
 
 # Introduction
 
-The purpose of this document is to show users how to properly use CLion. CLion is a cross platform IDE (integrated development environment) produced by JetBrains. CLion specializes in C and C++ programming languages. CLion is one of the more popular IDEs since it features on-the-fly code analysis, refactoring and code generation. One of the most popular features of this application is its integration with GitHub.
+The purpose of this document is to show users how to properly use CLion. CLion is a cross-platform IDE (Integrated Development Environment) produced by JetBrains. CLion specializes in C and C++ programming languages. CLion is one of the more popular IDEs since it features on-the-fly code analysis, refactoring and code generation. One of the most popular features of this application is its integration with GitHub.
 
 ## Intended users
 
 This document intended for novice programmers who have never previously used CLion. The user should be able to write a basic C program.
 
 ## Procedures Described
-
-  1. create a new project on CLion,
-  2. add new executable files to their projects,
-  3. connect their GitHub account to CLion,
-  4. share their projects to online GitHub repositories,
-  5. customize IDE’s code color scheme.
+ MAKE TOC HERE
+  1. create a new project on CLion
+  2. add new executable files to their projects
+  3. connect their GitHub account to CLion
+  4. share their projects to online GitHub repositories
+  5. customize IDE’s code color scheme
   
 ## Software Versions
 
