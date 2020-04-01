@@ -9,7 +9,7 @@ nav_order: 6
 ★ RECOMMENDATION LABEL
 {: .label .label-blue }
 
-⚠ WARNING LABEL 
+⚠ WARNING LABEL
 {: .label .label-yellow }
 
 INTRO

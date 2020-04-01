@@ -13,7 +13,7 @@ In this procedure we will create a new executable file in your project. After co
 Before starting this procedure, you must have an existing project. If you do not, please [create a new project](https://amirashvins.github.io/how-to-use-CLion/docs/PROC1-Create-a-new-project/).
 
 1. Open CLion.
-2. Open your project by clicking on it in the projects pane in the [starting window].
+2. Click on your **project** to open it.
    You should be now in the [main window].
 
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image0.png?raw=true "alt text here")
@@ -46,4 +46,5 @@ Before starting this procedure, you must have an existing project. If you do not
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image8.png?raw=true "alt text here")
 
-Check for success: After this stage you should be able to run your newly created file.
+✓ Check for success: After this stage you should be able to run your newly created file.
+{: .label .label-purple}
