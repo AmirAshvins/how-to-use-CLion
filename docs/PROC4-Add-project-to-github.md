@@ -13,7 +13,8 @@ nav_order: 5
 ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image2.png?raw=true "alt text here" ) 
 3. Text
 ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image3.png?raw=true)
-4. text
+4. ★ RECOMMENDATION 
+{: .label .label-blue } text
 ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image4.png?raw=true "alt text here") 
 5. text
 ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image5.png?raw=true "alt text here") 
