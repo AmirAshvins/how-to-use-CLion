@@ -36,4 +36,4 @@ INTRO
 10. Text
 ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img10.png?raw=true "alt text here")
 11. Text
-![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img11.png?raw=true "alt text here"
+![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img11.png?raw=true "alt text here")

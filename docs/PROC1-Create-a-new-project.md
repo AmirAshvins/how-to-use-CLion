@@ -28,4 +28,5 @@ In this procedure, we will create a new C project on CLion.
 6. Congratulations, you have successfully created a new C project on your CLion application.
 
 Check for success: You should now be in the [main window], main directory in the project pane should state the path to your project.
+
 ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image100.png?raw=true "alt text here")

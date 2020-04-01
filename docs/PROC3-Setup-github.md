@@ -27,8 +27,7 @@ In this procedure, we will link your github account to your CLion application. I
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image5.png?raw=true "alt text here")
 7. You should be able to see your GitHub account in the right pane. Click **OK**.
   
-  ★ Recommendation:
+  ★ In order to set your newly added git account to default, click the **tickmark** in the middle of the right pane.
   {: .label .label-blue }
-  In order to set your newly added git account to default, click the **tickmark** in the middle of the right pane.
+
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image6.png?raw=true "alt text here")
- 
