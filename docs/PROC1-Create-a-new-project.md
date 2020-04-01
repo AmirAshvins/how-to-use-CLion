@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create a new project
-nav_order: 12
+nav_order: 2
 ---
 # Create a new project
 {: no-toc}
