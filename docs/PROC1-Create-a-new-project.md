@@ -6,12 +6,6 @@ nav_order: 2
 # Create a new project
 {: no-toc}
 
-★ RECOMMENDATION LABEL
-{: .label .label-blue }
-
-⚠ WARNING LABEL 
-{: .label .label-yellow }
-
 In this procedure, we will create a new C executable project on CLion.
 
 1. Open CLion application.
