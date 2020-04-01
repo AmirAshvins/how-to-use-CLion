@@ -7,7 +7,11 @@ nav_order: 4
 # Setup GitHub account
 {: no-toc}
 
-In this procedure, we will link your github account to your CLion application. It is necessary to have your GitHub account set up so you can easily share your projects into the cloud or pull from the cloud to your local machine.
+In this procedure, we will link your github account to your CLion application. After completion, CLion will be prepared to connect any project to [Github](https://github.com/).
+
+## Pre-requisites
+
+Before starting this procedure, you need a Github account.
 
 1. Open CLion application.
 2. In the bottom left corner of the starting window, click **Configure**.
