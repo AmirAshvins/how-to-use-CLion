@@ -10,7 +10,7 @@ In this procedure, we will create a new C project on CLion. After completion, yo
 1. Open CLion.
 2. On the right pane in the starting window, beneath CLion’s Logo, click **New Project**.
 
-    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image1.png?raw=true "alt text here")
+    ![Starting-window-point](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image1.png?raw=true "alt text here")
 
 3. On the right pane of the newly opened window, click **C Executable**, the 3rd option from the top.
 
@@ -27,9 +27,9 @@ In this procedure, we will create a new C project on CLion. After completion, yo
     ⚠ Only change the language standard from **C99** to a previous version if you specifically want to create a backward compatible application.
     {: .label .label-yellow }
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image4.png?raw=true "alt text here")
-    
+
 6. Congratulations, you have successfully created a new C project on your CLion application.
 
-Check for success: You should now be in the [main window], main directory in the project pane should state the path to your project.
+    Check for success: You should now be in the [main window], main directory in the project pane should state the path to your project.
 
-![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image100.png?raw=true "alt text here")
+    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image100.png?raw=true "alt text here")
