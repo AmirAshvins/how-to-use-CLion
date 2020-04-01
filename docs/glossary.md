@@ -4,7 +4,7 @@ title: Glossary
 nav_order: 7
 ---
 
-# glossary goes here
+# Glossory
 {: no-toc}
 
 **Git:** Git is a distributed version control system that tracks any changes in a system. It is mostly used by programmers in the developement stages of a product.
