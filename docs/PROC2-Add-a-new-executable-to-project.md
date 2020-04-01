@@ -40,8 +40,7 @@ before proceeding with this procedure, make sure you do have an existing project
   
 6. from the **Type** drop down menu, choose the type of the file and click **Ok**.
 
-  \* Note: 
-  {: .label .label-green}
+  \* Note: {: .label .label-green}
   In this guide we will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for c++ source files) 
   
   ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "alt text here") 
