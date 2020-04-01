@@ -31,5 +31,4 @@ It is necessary to have your GitHub account set up so you can share your project
   
     ★ In order to set your newly added git account to default, click the **tickmark** in the middle of the right pane.
     {: .label .label-blue }
-
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image6.png?raw=true "alt text here")
