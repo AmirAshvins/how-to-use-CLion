@@ -21,7 +21,7 @@ Before starting this procedure, you must have an existing project. If you do not
 
 3. Right-click on the project's directory.
 
-  ![right-click-on-project-directory](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image1.png?raw=true "Right click on project directory")
+    ![right-click-on-project-directory](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image1.png?raw=true "Right click on project directory")
 
 4. Hover across **New > C/C++ Source File**.
 
