@@ -53,7 +53,7 @@ This guide uses recommendation and warning messages to convey additional informa
   Recommendations provide more information about the best way to proceed with a particular step. They are always encased in a blue box and preceded by a star.
 
   ✓ Success check
-  {: .label .label--lime-green}
+  {: .label .label-lime-green}
   Success checks allow you to verify you completed a procedure correctly.
   
   \* Note
