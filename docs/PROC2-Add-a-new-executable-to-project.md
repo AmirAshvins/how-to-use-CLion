@@ -63,6 +63,6 @@ Before starting this procedure, you must have an existing project. If you do not
     ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image8.png?raw=true "Main window - Emphasis on code panel")
 
 ✓ Check for success: After this stage you should be able to find the new executable in the executables list.
-{: .label .label-green-000}
+{: .label .label-lime-green}
 
 ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image100.png?raw=true "Main window - Emphasis on executables list")

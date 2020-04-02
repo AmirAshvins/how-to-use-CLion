@@ -35,6 +35,6 @@ In this procedure, we will create a new C project on CLion. To be able to use CL
 Congratulations, you have successfully created a new C project on your CLion application.
 
 ✓ Next to the main directory in the project pane it should state the path to your project.
-{: .label .label-green-000}
+{: .label .label-lime-green}
 
 ![project-path](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image100.png?raw=true "Project path")

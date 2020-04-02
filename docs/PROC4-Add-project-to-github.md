@@ -69,6 +69,6 @@ Before starting this procedure you need the following requirements:
     ![add-files-for-initial-commit-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image9.png?raw=true "Add Files For Initial Commit window")
 
 ✓ After last step, you should see a message from CLion indicating that the project has been successfully shared on GitHub and the color of files changed from red to white.
-{: .label .label-green-000}
+{: .label .label-lime-green}
 
 ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image10.png?raw=true "Main window")
