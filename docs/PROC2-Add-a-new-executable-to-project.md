@@ -8,11 +8,16 @@ nav_order: 3
 
 In this procedure we will create a new executable file in your project. To be able to have more than one executable file in a project, it is necessary to complete this procedure. After completion, the new executable file should be able to be run by CLion.
 
-## Prerequisites
+## Pre-requisites
 
 Before starting this procedure, you must have an existing project. If you do not, please [create a new project](https://amirashvins.github.io/how-to-use-CLion/docs/PROC1-Create-a-new-project/).
 
+## Instructions
+
 1. Open CLion.
+
+    You should now be in the [starting window].
+
 2. Click on your **project** to open it.
 
     ![starting-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image0.png?raw=true "Starting window")
@@ -59,3 +64,5 @@ Before starting this procedure, you must have an existing project. If you do not
 
 ✓ Check for success: After this stage you should be able to find the new executable in the executables list.
 {: .label .label-green-000}
+
+![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image100.png?raw=true "Main window - Emphasis on executables list")

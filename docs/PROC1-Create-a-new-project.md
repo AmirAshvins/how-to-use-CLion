@@ -15,7 +15,7 @@ In this procedure, we will create a new C project on CLion. To be able to use CL
 
 2. Click **New Project**.
 
-    ![Starting-window-point](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image1.png?raw=true "Starting window")
+    ![Starting-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image1.png?raw=true "Starting window")
 
 3. Click **C Executable**.
 

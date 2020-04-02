@@ -14,7 +14,7 @@ nav_order: 6
 
 In this procedure, we will customuize the color scheme of the code in CLion. programmers usually prefer to have their own customized colors for the code they write in their IDEs for different reasons. By the end of this procedure you should be able to change the color scheme of your code.
 
-## Instructions:
+## Instructions
 
 1. fisrt do this and then do that
 

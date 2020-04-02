@@ -6,51 +6,69 @@ nav_order: 5
 
 # Share project to github
 
-In this procedure, we will share a project from CLion to GitHub. After completion, the project will be accessible from Github.
+In this procedure, we will share a project from CLion to GitHub. To be able to collaborate with other developers, projects must be shared on a version control platform such as Github. After completion, the project will be accessible from Github.
 
-It is imperative for software developers and programmers to know how to do this since it enables collaborators to import our code into thier machines and to work on it on the project.
+## Pre-requisites
 
-## Prerequisites
+Before starting this procedure you need the following requirements:
 
-Before proceeding with this procedure, make sure you have done the following:
-
-* you have created a project on CLion. If you have not, please create one or check out [how to create a projet guide](https://amirashvins.github.io/how-to-use-CLion/docs/PROC1-Create-a-new-project/).
-* you have linked your GitHub account to CLiom. if your have not, please go ahead and do it or check out [how to set up github account guide](https://amirashvins.github.io/how-to-use-CLion/docs/PROC3-Setup-github/).
+* You have an existing project. If you do not, please [create a new project](https://amirashvins.github.io/how-to-use-CLion/docs/PROC1-Create-a-new-project/).
+* Your Github account has been set up in CLion. If your have not, [set up github account](https://amirashvins.github.io/how-to-use-CLion/docs/PROC3-Setup-github/).
 
 ## Instructions
 
 1. Open CLion application.
+
+    You should now be in the [starting window].
+
 2. Click on your desired project in the right pane of starting window.
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image1.png?raw=true "alt text here")
-3. In the \[Mac Menue Bar] on the top, click **VSC**.
+    ![starting-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image1.png?raw=true "Starting window")
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image2.png?raw=true "alt text here" )
-4. In the appeared menu, hover over **Import into Version Control > Create Git Repository…**. 
+    You should be now in the [main window].
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image3.png?raw=true)
-5. Choose your intended directory path to create the Git repository in \[Open Dialog Window] and click **OK**.
+3. Click **VSC**.
+
+    ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image2.png?raw=true "Main window" )
+
+4. Hover over **Import into Version Control > Create Git Repository…**.
+
+    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image3.png?raw=true)
+
+5. Choose the intended directory path for the Git repository and click **OK**.
   
-  ★ We recommend accepting the path already chosen for you by CLion, as most of the time it picks the most appropriate path
-  {.label, .label-blue}
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image5.png?raw=true "alt text here")
-  \* After this step, your files' color will turn into red to show that it git reposetory has been created on your machine.
-  {.label, .label-green}
+    ★ It is recommended to accept the default path.
+    {.label, .label-blue}
+
+    ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image5.png?raw=true "Starting window")
+
+    After this step, your files' color will turn into red to show that it git repository has been created on your machine.
+
 6. Click **VSC > Import into Version Control > Share Project on GitHub**.
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image6.png?raw=true "alt text here")
-7. Type your new online reposetory name in **Reposetory name** box and add an optioanl description in **Description** box.
+    ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image6.png?raw=true "Main window")
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image7.png?raw=true "alt text here")
-Optional: to make your project private, check the **private** check-box and click **Share**.
+7. Enter the repository name and click **Share**.
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image8.png?raw=true "alt text here")
-8. In the \[Add files for initial commit window], check the files that you want to add to your online reposetory and click **Add**.
+    Optional: You may also type a description for the repository.
 
-  ★ We recommend not checking the **.idea** folder and **.gitignore** file to make your project cross-platform.
-  {.label, .label-blue}
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image9.png?raw=true "alt text here")
+    ![share-project-dialogue](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image7.png?raw=true "Share project dialogue")
 
-Check success: After last step, you should see a message from CLion indicating that the project has been successfully shared on GitHub and the color of files changed from red to white.
+    ★ Make your project private by checking the **private** check-box.
+    {.label, .label-blue}
 
-  ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image10.png?raw=true "alt text here")
+    ![share-project-dialogue](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image8.png?raw=true "Share project dialogue")
+
+    You should now be in the [Add Files For Initial Commit window].
+
+8. Check the files that you want to add and click **Add**.
+
+    ★ We recommend not checking the **.idea** folder and the **.gitignore** file as these are only useful to yourself.
+    {.label, .label-blue}
+
+    ![add-files-for-initial-commit-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image9.png?raw=true "Add Files For Initial Commit window")
+
+✓ After last step, you should see a message from CLion indicating that the project has been successfully shared on GitHub and the color of files changed from red to white.
+{: .label .label-green-000}
+
+![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image10.png?raw=true "Main window")
