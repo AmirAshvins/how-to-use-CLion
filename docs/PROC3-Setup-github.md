@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Set up GitHub account.
+title: Set up GitHub account
 nav_order: 4
 ---
 
