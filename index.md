@@ -17,11 +17,12 @@ This document intended for novice programmers who have never previously used CLi
 ## Procedures inlcuded
 
 This document describes how to
-  *. create a new project on CLion,
-  *. add new executable files to their projects,
-  *. connect CLion to GitHub,
-  *. share projects on GitHub,
-  *. customize CLion's color scheme.
+
+* create a new project on CLion,
+* add new executable files to their projects,
+* connect CLion to GitHub,
+* share projects on GitHub,
+* customize CLion's color scheme.
   
 ## Software Versions
 
