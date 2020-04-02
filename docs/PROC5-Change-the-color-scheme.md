@@ -32,7 +32,7 @@ In this procedure, we will customuize the color scheme of the code in CLion. pro
 8. Click on the element aspect you want to change.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img7.png?raw=true "alt text here")
-9. Choose your desired color and click **Choose**. 
+9. Choose your desired color and click **Choose**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img8.png?raw=true "alt text here")
 10. to save your changes, click **OK**.
@@ -40,4 +40,4 @@ In this procedure, we will customuize the color scheme of the code in CLion. pro
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img11.png?raw=true "alt text here")
 
 ✓ You should be able to see that the color of that element is now changed in the Box at the Bottom.
-{: .Label .label-lime-green}
+{: .label .label-lime-green}
