@@ -26,3 +26,5 @@ nav_order: 7
 **Relative path:** Every file in the oporating system will have a directory path that is used to obtain and visit the file which is called the Absolute path. The relative path in the other hand refers to the path of a file relative to another file (i.e: path of a file in CLion relative to the path of the CLion application itself)
 
 **Reposetory:** In software development, a repository is a central file storage location. It is used by version control systems such as GitHub to store multiple versions of files.
+
+**Version Control:** Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
