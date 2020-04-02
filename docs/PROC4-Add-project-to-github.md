@@ -64,7 +64,7 @@ Before starting this procedure you need the following requirements:
 8. Check the files that you want to add and click **Add**.
 
     ★ We recommend not checking the **.idea** folder and the **.gitignore** file as these are only useful to yourself.
-    {.label, .label-blue}
+    {: .label .label-blue}
 
     ![add-files-for-initial-commit-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image9.png?raw=true "Add Files For Initial Commit window")
 
