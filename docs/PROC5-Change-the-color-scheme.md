@@ -14,28 +14,43 @@ In this procedure, we will customuize the color scheme of the code in CLion. pro
 2. Click **Configure**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-image1.png?raw=true "alt text here")
-3. Click **Preferences** from the appeared menu.
+
+3. Click **Preferences**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-image2.png?raw=true "alt text here")
-4. Click **Editor** from the right pane of the appeared menu.
+
+    You should now be at the [preferences window].
+
+4. Click **Editor**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-image3.png?raw=true "alt text here")
+
 5. Click **Color Scheme**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-image4.png?raw=true "alt text here")
+
 6. Click **C/C++**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img5.png?raw=true "alt text here")
-7. to change the color of each element, Click on it in the Box at the bottom.
+
+    You should now be at the [color scheme window].
+
+7. Select the element you want to change.
+
+    \* The code box at the bottom is interactive. When clicking on any element it will be selected for modification.
+      {: .label .label-green}
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img6.png?raw=true "alt text here")
-8. Click on the element aspect you want to change.
+
+8. Select the element property you want to change.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img7.png?raw=true "alt text here")
-9. Choose your desired color and click **Choose**.
+
+9. Select your desired color and click **Choose**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img8.png?raw=true "alt text here")
-10. to save your changes, click **OK**.
+
+10. To save your changes, click **OK**.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img11.png?raw=true "alt text here")
 
