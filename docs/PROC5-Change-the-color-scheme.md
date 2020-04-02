@@ -54,5 +54,5 @@ In this procedure, we will customuize the color scheme of the code in CLion. pro
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img11.png?raw=true "alt text here")
 
-✓ You should be able to see that the color of that element is now changed in the Box at the Bottom.
+✓ All the changes you made should now be v in your code.
 {: .label .label-lime-green}
