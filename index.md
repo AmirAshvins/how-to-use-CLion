@@ -49,19 +49,19 @@ The following requisites are needed in order to use the user guide:
 
 The following recommendation and warning messages are used to convey additional information about each step:
 
- *. ★ Recommendation
+ * ★ Recommendation
   {: .label .label-blue }
     Recommendations provide more information about the best way to proceed with a particular step. They are always encased in a blue box and preceded by a star.
 
- *. ✓ Success check
+ * ✓ Success check
   {: .label .label-lime-green}
     Success checks allow you to verify you completed a procedure correctly.
   
- *. \* Note
+ * \* Note
   {: .label .label-green }
     Notes provide extra information about the step. They are always encased in a green box and preceded by an asterisk.
   
- *. ⚠ Caution
+ * ⚠ Caution
   {: .label .label-yellow }
     Cautions provide more information about potential risks that exist in each step. They are always encased in a yellow box and preceded by an exclamation mark enclosed in a circle.
   
