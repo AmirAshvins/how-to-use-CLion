@@ -31,7 +31,7 @@ Before starting this procedure you need the following requirements:
 
     ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image2.png?raw=true "Main window" )
 
-4. Hover over **Import into Version Control > Create Git Repository…**.
+4. Hover over **Import into Version Control > Create Git Repository…** and click.
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image3.png?raw=true)
 

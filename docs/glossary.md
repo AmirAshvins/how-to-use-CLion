@@ -6,7 +6,7 @@ nav_order: 7
 
 # Glossary
 
-**Code generation:** The ability to generate commonly used code from templates while using the user defined variables
+**Code generation:** The ability to generate commonly used code from templates while using the user defined variables.
 
 **Compiler:** A program that converts human-readable programs to machine-readable programs.
 
