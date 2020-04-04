@@ -32,9 +32,9 @@ In this procedure, we will create a new C project on CLion. To be able to use CL
 
     ![project-path-selection-screen](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image4.png?raw=true "Project path selection screen - Emphasis on language standard")
 
-Congratulations, you have successfully created a new C project on your CLion application.
+Congratulations, you have successfully created a new C project on your CLion application.t
 
-✓ Next to the main directory in the project pane it should state the path to your project.
+✓ You should be able to see your project's path in the project pane.
 {: .label .label-lime-green}
 
 ![project-path](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image100.png?raw=true "Project path")
