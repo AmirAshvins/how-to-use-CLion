@@ -4,27 +4,26 @@ title: Glossary
 nav_order: 7
 ---
 
-# Glossory
-{: no-toc}
+# Glossary
 
-**Code Generation:** CLion's editor will generate some commonly used code among programmers such as the main function or methods for a class (only applicable for c++ language).
+**Code generation:** The ability to generate commonly used code from templates while using the user defined variables
 
-**Compiler:** A Compiler acts as a translator that translates a given source code (code written by developers) into machine langugage. There are different compilers for different programming languages.
+**Compiler:** A program that converts human-readable programs to machine-readable programs.
 
-**Executable file:** Files in CLion will can not always be executed (be ran) and everything must be in the main.c file. However there is a possible way to make files in CLion executbale, i.e: run the files by themselves and let them having a main function for their own.
+**Executable file:** A file that can be executed on its own. Executable files must always contain a main function.
 
-**Git:** Git is a distributed version control system that tracks any changes in a system. It is mostly used by programmers in the developement stages of a product.
+**Git:** A version control application that tracks changes in files. Git also allows uploading and downloading from online repositories.
 
-**GitHub:** GitHub is a Git reposetory hosting service that allows sharing products that have git on the cloud.
+**GitHub:** An online repository hosting service that allows many collaborators to work on a single project through the use of Git.
 
-**Language Standard:** Language Standard refers to the different avaibale versions of a programming language to be chosen as the only version used in a specific CLion project.
+**Language standard:** The programming language version.
 
-**on-the-fly-Code-AnalysisL:** The CLion's editor will check the code, based on the language used, and the rules you specify and highlight warnings and errors as you type.
+**On-the-fly-Code-analysis:** A system that check code in real-time for correctness. On-the-fly-Code-analysis will also suggest words and instructions as you type.
 
-**Refactoring:** Refactoring is regarded as the process of restructring the computer code to improve the design and reability of it.
+**Refactoring:** The process of changing the structure of the code without changing its functionality. Refactoring is done to improve readability and mainainability.
 
-**Relative path:** Every file in the oporating system will have a directory path that is used to obtain and visit the file which is called the Absolute path. The relative path in the other hand refers to the path of a file relative to another file (i.e: path of a file in CLion relative to the path of the CLion application itself)
+**Relative path:** Describes the relation between two positions in a file system. For example "../../betty/boop" describes move up two folders, move inside "betty", then move inside "boop".
 
-**Reposetory:** In software development, a repository is a central file storage location. It is used by version control systems such as GitHub to store multiple versions of files.
+**Repository:** A repository is a centralized hub that contains a project. It is used as a convenient method to control, track and share the progress of a project.
 
-**Version Control:** Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+**Version Control:** A system that tracks the changes made to project files. Version control is based on the concept of commits. A commit is an action that marks the advancement to a newer version of the file.

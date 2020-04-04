@@ -43,7 +43,7 @@ The following requisites are needed in order to use these instructions:
 | Convention and Explanation                                                                              | Examples                                             |
 |---------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | Interactive elements: Interactive elements such as **buttons** are bolded.                                  | Click the **Open** button, Double click the **File** menu |
-| Dialog windows: Dialog windows are enclosed in a set of square brackets and end with the “window” word. | [Mac Open Dialog Window]                             |
+| Dialog windows: Dialog windows are enclosed in a set of square brackets and end with the “window” word. | [mac open dialog window]                             |
 
 ## Notes and Warning Messages
 

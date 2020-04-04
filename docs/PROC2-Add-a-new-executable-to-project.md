@@ -39,12 +39,13 @@ Before starting this procedure, you must have an existing project. If you do not
 6. Click the desired type of file from the **Type** drop down menu, then click **Ok**.
 
     \* We will use a **.c** file (C source file) for demonstration purposes, but CLion also supports .cpp files (for C++ source files)
-      {: .label .label-green}
+    {: .label .label-green}
     ![new-source-file-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image4.png?raw=true "New source file window")
 
 7. Double-click **CMakeLists.txt** to open it.
 
     ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image5.png?raw=true "Main window - Emphasis on project panel")
+
     The source code should now appear in the code pane of the [main window].
 
 8. Type "add_executable()" in a new line.
