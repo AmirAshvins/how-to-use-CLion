@@ -8,18 +8,18 @@ permalink: /
 
 # Introduction
 
-The purpose of this document is to show users how to properly use CLion. CLion is a cross-platform IDE (Integrated Development Environment) produced by JetBrains. CLion specializes in C and C++ programming languages. CLion is one of the more popular IDEs since it features on-the-fly code analysis, refactoring and code generation. One of the most popular features of this application is its integration with GitHub.
+The purpose of this document is to show users how to properly use CLion, as the instructions described are necessary in order to work with the application. CLion is a cross-platform Integrated Development Environment (IDE) produced by JetBrains. CLion specializes in C and C++ programming languages. CLion is one of the more popular IDEs since it features on-the-fly code analysis, refactoring and code generation. One of the most popular features of this application is its integration with GitHub.
 
 ## Intended users
 
-This document intended for novice programmers who have never previously used CLion. The user should be able to write a basic C program.
+This document intended for novice programmers who have never previously used CLion. The user should be able to write a basic C program (a basic c program consist of just a main function that could be run by the C compiler in CLion).
 
 ## Procedures inlcuded
 
 This document describes how to
 
 * create a new project on CLion,
-* add new executable files to their projects,
+* add new executable files to projects used in the application,
 * connect CLion to GitHub,
 * share projects on GitHub,
 * customize CLion's color scheme.
@@ -30,7 +30,7 @@ This user documentation is written for CLion 2019.3.2 for macOS Catalina 10.15.3
 
 ## Prerequisites
 
-The following requisites are needed in order to use these instructions:
+The following requisites are needed in order to use the user guide:
   
 * MacOS operating system
 * CLion application
@@ -47,21 +47,20 @@ The following requisites are needed in order to use these instructions:
 
 ## Notes and Warning Messages
 
-This guide uses recommendation and warning messages to convey additional information about each step.
+The following recommendation and warning messages are used to convey additional information about each step:
 
-  ★ Recommendation
+ * ★ Recommendation
   {: .label .label-blue }
-  Recommendations provide more information about the best way to proceed with a particular step. They are always encased in a blue box and preceded by a star.
+    Recommendations provide more information about the best way to proceed with a particular step. They are always encased in a blue box and preceded by a star.
 
-  ✓ Success check
+ * ✓ Success check
   {: .label .label-lime-green}
-  Success checks allow you to verify you completed a procedure correctly.
+    Success checks allow you to verify you completed a procedure correctly.
   
-  \* Note
+ * \* Note
   {: .label .label-green }
-  Notes provide extra information about the step. They are always encased in a green box and preceded by an asterisk.
+    Notes provide extra information about the step. They are always encased in a green box and preceded by an asterisk.
   
-  ⚠ Caution
+ * ⚠ Caution
   {: .label .label-yellow }
-  Cautions provide more information about potential risks that exist in each step. They are always encased in a yellow box and preceded by an exclamation mark enclosed in a circle.
-  
+    Cautions provide more information about potential risks that exist in each step. They are always encased in a yellow box and preceded by an exclamation mark enclosed in a circle.
