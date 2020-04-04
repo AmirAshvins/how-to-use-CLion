@@ -38,7 +38,7 @@ Before starting this procedure you need the following requirements:
 5. Choose the intended directory path for the Git repository and click **OK**.
   
     ★ It is recommended to accept the default path.
-    {.label, .label-blue}
+    {: .label .label-blue}
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image5.png?raw=true "Starting window")
 
@@ -55,7 +55,7 @@ Before starting this procedure you need the following requirements:
     ![share-project-dialogue](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image7.png?raw=true "Share project dialogue")
 
     ★ Make your project private by checking the **private** check-box.
-    {.label, .label-blue}
+    {: .label .label-blue}
 
     ![share-project-dialogue](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image8.png?raw=true "Share project dialogue")
 
