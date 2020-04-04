@@ -8,7 +8,7 @@ permalink: /
 
 # Introduction
 
-The purpose of this document is to show users how to properly use CLion. CLion is a cross-platform IDE (Integrated Development Environment) produced by JetBrains. CLion specializes in C and C++ programming languages. CLion is one of the more popular IDEs since it features on-the-fly code analysis, refactoring and code generation. One of the most popular features of this application is its integration with GitHub.
+The purpose of this document is to show users how to properly use CLion, as the instructions described are necessary in order to work with the application. CLion is a cross-platform IDE (Integrated Development Environment) produced by JetBrains. CLion specializes in C and C++ programming languages. CLion is one of the more popular IDEs since it features on-the-fly code analysis, refactoring and code generation. One of the most popular features of this application is its integration with GitHub.
 
 ## Intended users
 
