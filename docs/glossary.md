@@ -22,7 +22,7 @@ nav_order: 7
 
 **Refactoring:** The process of changing the structure of the code without changing its functionality. Refactoring is done to improve readability and mainainability.
 
-**Relative path:** Describes the relation between two positions in a file system. For example "../../betty/boop" describes move up two folders, move inside "betty", then move inside "boop".
+**Relative path:** Describes the relation between two positions in a file system. For example "../../BCIT/COMM" describes move up two folders, move inside "BCIT", then move inside "COMM".
 
 **Repository:** A repository is a centralized hub that contains a project. It is used as a convenient method to control, track and share the progress of a project.
 
