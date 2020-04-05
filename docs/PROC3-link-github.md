@@ -40,7 +40,7 @@ In this procedure, we will link your github account to your CLion application. T
 
 Congratulations! You have successfully linked Github to Clion. Next, perform the success check below and then continue to [add project to Github](https://amirashvins.github.io/how-to-use-CLion/docs/PROC4-Add-project-to-github/)
 
-✓ You should be able to see your GitHub account.
+✓ You should be able to see your GitHub account(1). Click **ok**(2) to go back to the [main window].
 {: .label .label-lime-green}
   
 ★ To set a git account as default, click the **checkmark**.
