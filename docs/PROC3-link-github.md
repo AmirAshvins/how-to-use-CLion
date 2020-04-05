@@ -43,7 +43,7 @@ Congratulations! You have successfully linked Github to Clion. Next, perform the
 ✓ You should be able to see your GitHub account(1). Click **ok**(2) to go back to the [main window].
 {: .label .label-lime-green}
   
-★ To set a git account as default, click the **checkmark**.
+★ Optional: To set a git account as default, click the **checkmark**.
 {: .label .label-blue}
 
 ![version-control-preferences](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image6.png?raw=true "Version control preferences")
