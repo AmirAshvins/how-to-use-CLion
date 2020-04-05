@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Set up GitHub account
+title: Link github to CLion
 nav_order: 4
 ---
 
-# Set up GitHub account
+# Link github to CLion
 
 In this procedure, we will link your github account to your CLion application. To share projects in Github using CLion, it is necessary to have your GitHub account set up. After completion, CLion will be prepared to connect any project to Github.
 
@@ -38,10 +38,12 @@ In this procedure, we will link your github account to your CLion application. T
 
     ![login-dialog](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image5.png?raw=true "Login dialog")
 
-    ✓ You should be able to see your GitHub account.
-    {: .label .label-lime-green}
-  
-    ★ To set a git account as default, click the **checkmark**.
-    {: .label .label-blue}
+Congratulations! You have successfully linked Github to Clion. Next, perform the success check below and then continue to [add project to Github](https://amirashvins.github.io/how-to-use-CLion/docs/PROC4-Add-project-to-github/)
 
-    ![version-control-preferences](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image6.png?raw=true "Version control preferences")
+✓ You should be able to see your GitHub account.
+{: .label .label-lime-green}
+  
+★ To set a git account as default, click the **checkmark**.
+{: .label .label-blue}
+
+![version-control-preferences](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc3-image6.png?raw=true "Version control preferences")

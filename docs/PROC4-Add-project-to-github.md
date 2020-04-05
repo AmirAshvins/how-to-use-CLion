@@ -68,6 +68,8 @@ Before starting this procedure you need the following requirements:
 
     ![add-files-for-initial-commit-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image9.png?raw=true "Add Files For Initial Commit window")
 
+Congratulations! You have successfully added your project to Github. Next, perform the success check below and then continue to [change the color scheme](https://amirashvins.github.io/how-to-use-CLion/docs/PROC5-Change-the-color-scheme/)
+
 ✓ After last step, you should see a message from CLion indicating that the project has been successfully shared on GitHub and the color of files changed from red to white.
 {: .label .label-lime-green}
 

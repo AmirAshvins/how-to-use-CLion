@@ -20,7 +20,7 @@ This document describes how to
 
 * create a new project on CLion,
 * add new executable files to projects used in the application,
-* connect CLion to GitHub,
+* link Github to CLion,
 * share projects on GitHub,
 * customize CLion's color scheme.
   
@@ -55,7 +55,7 @@ Recommendations provide more information about the best way to proceed with a pa
 
 ✓ Success check
 {: .label .label-lime-green}
-Success checks allow you to verify you completed a procedure correctly.
+Success checks are provided at the end of each instruction. They allow you to verify you completed a procedure correctly.
   
 \* Note
 {: .label .label-green }
