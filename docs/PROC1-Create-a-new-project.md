@@ -31,8 +31,10 @@ In this procedure, we will create a new C project on CLion. To be able to use CL
     Choose the desired **language standard** click **create**.
 
     ![project-path-selection-screen](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc1-image4.png?raw=true "Project path selection screen - Emphasis on language standard")
-  
-Congratulations! You have successfully created a new C project on your CLion application. Next, perform the success check below and then continue to [add a new executable to project](https://amirashvins.github.io/how-to-use-CLion/docs/PROC2-Add-a-new-executable-to-project/)
+
+<br/>
+
+Congratulations! You have successfully created a new C project on your CLion application. Next, perform the success check below. If you have any issues, check out [troubleshooting](https://amirashvins.github.io/how-to-use-CLion/docs/troubleshooting/). Then, continue to [add a new executable to project](https://amirashvins.github.io/how-to-use-CLion/docs/PROC2-Add-a-new-executable-to-project/)
 
 ✓ You should be able to see your project's path in the project pane.
 {: .label .label-lime-green}

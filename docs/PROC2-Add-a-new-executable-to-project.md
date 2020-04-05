@@ -61,9 +61,11 @@ Before starting this procedure, you must have an existing project. If you do not
 
 10. Click **Reload changes**.
 
-    ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image8.png?raw=true "Main window - Emphasis on code panel")/
+    ![main-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc2-image8.png?raw=true "Main window - Emphasis on code panel")
 
-Congratulations! You have successfully added a new executable to your project. Next, perform the success check below and then continue to [add Github to CLion](https://amirashvins.github.io/how-to-use-CLion/docs/PROC3-link-github/)
+<br/>
+
+Congratulations! You have successfully added a new executable to your project. Next, perform the success check below. If you have any issues, check out [troubleshooting](https://amirashvins.github.io/how-to-use-CLion/docs/troubleshooting/). Then, continue to [add Github to CLion](https://amirashvins.github.io/how-to-use-CLion/docs/PROC3-link-github/)
 
 ✓ Check for success: After this stage you should be able to find the new executable in the executables list.
 {: .label .label-lime-green}
