@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Link github to CLion
+title: Link Github to CLion
 nav_order: 4
 ---
 
-# Link github to CLion
+# Link Github to CLion
 
 In this procedure, we will link your github account to your CLion application. To share projects in Github using CLion, it is necessary to have your GitHub account set up. After completion, CLion will be prepared to connect any project to Github.
 
