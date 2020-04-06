@@ -54,7 +54,7 @@ In this procedure, we will customuize the color scheme of the code in CLion. pro
 
     ![image-name](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc5-img11.png?raw=true "alt text here")
 
-<br/>
+---
 
 Congratulations! You have successfully changed your color scheme. Next, perform the success check below. If you have any issues, check out [troubleshooting](https://amirashvins.github.io/how-to-use-CLion/docs/troubleshooting/).
 

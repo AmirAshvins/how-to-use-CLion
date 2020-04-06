@@ -68,7 +68,7 @@ Before starting this procedure you need the following requirements:
 
     ![add-files-for-initial-commit-window](https://github.com/AmirAshvins/how-to-use-CLion/blob/gh-pages/assets/images/proc4-image9.png?raw=true "Add Files For Initial Commit window")
 
-<br/>
+---
 
 Congratulations! You have successfully added your project to Github. Next, perform the success check below. If you have any issues, check out [troubleshooting](https://amirashvins.github.io/how-to-use-CLion/docs/troubleshooting/). Then, continue to [change the color scheme](https://amirashvins.github.io/how-to-use-CLion/docs/PROC5-Change-the-color-scheme/)
 
