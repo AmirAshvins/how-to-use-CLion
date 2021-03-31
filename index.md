@@ -14,7 +14,7 @@ The purpose of this document is to show users how to properly use CLion, as the 
 
 This document intended for novice programmers who have never previously used CLion. The user should be able to write a basic C program (a basic c program consist of just a main function that could be run by the C compiler in CLion).
 
-## Procedures inlcuded
+## Procedures included
 
 This document describes how to
 
